@@ -50,6 +50,14 @@ h1 {
   margin-bottom: 32px;
 }
 
+.current-time {
+  font-size: 14px;
+  font-weight: 600;
+  color: #999;
+  letter-spacing: 1px;
+  margin-bottom: 16px;
+}
+
 .time-display {
   font-size: 72px;
   font-weight: 700;
